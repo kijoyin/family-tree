@@ -20,7 +20,7 @@ A simple modular family tree web application that can be easily extened, with ex
 * Navigate to YOURCheckoutfolder\Code\Client\Prototype in CMD or powershell
 * Type "npm Install"
 * Once that is finished type "ng serve"
-* The client prototype website can now be accesed at http://localhost:4200/
+* The client prototype website can now be accessed at http://localhost:4200/
 
 
 
